@@ -1,0 +1,23 @@
+.title {
+  margin-left: 425px;
+  background-color: yellowgreen;
+  width: 500px;
+  text-align: center;
+}
+
+.statList {
+  display: flex;
+  justify-content: space-between;
+  vertical-align: auto;
+  text-align: center;
+  width: 440px;
+  height: 45px;
+  margin-left: 425px;
+  margin-top: -20px;
+  background-color: grey;
+  padding: 15px 30px;
+}
+
+.percentage {
+  font-weight: 700;
+}

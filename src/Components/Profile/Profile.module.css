@@ -1,0 +1,56 @@
+.description {
+  width: 500px;
+  padding-top: 15px;
+  margin: 0 auto;
+  background-color: rgba(233, 227, 227, 0.712);
+}
+
+.avatar {
+  width: 250px;
+  border-radius: 50%;
+  background-color: grey;
+  display: block;
+  margin-left: 125px;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-between;
+  vertical-align: auto;
+  text-align: center;
+  width: 440px;
+  height: 45px;
+  margin-left: 425px;
+  margin-top: -16px;
+  background-color: grey;
+  padding: 15px 30px;
+}
+
+li {
+  list-style: none;
+}
+
+span {
+  display: block;
+}
+
+.name {
+  text-align: center;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.tag {
+  text-align: center;
+  font-weight: 500;
+}
+
+.location {
+  text-align: center;
+  font-weight: 500;
+  padding-bottom: 15px;
+}
+
+.label {
+  font-weight: 500;
+}

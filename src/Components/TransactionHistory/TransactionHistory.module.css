@@ -1,0 +1,11 @@
+.transactionHistory {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: grey;
+  border: 2px solid yellow;
+}
+
+.row {
+  border: 2px solid yellowgreen;
+}
