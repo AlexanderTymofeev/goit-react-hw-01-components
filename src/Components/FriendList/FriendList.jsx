@@ -17,6 +17,9 @@ const FriendList = ({ friends }) => {
 </ul>)  
 }
 
+FriendList.defaultProps = {
+    friends: []
+}
 
 FriendList.propTypes = {
     friends: propTypes.arrayOf(propTypes.shape({
